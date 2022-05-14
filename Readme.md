@@ -1,3 +1,7 @@
+THIS VERSION IS LAST VERSION OF V86 WITHOUT WASM AND NO LONGER MAINTAINED.
+-
+Please Use [copy's original version](https://github.com/copy/v86) if you need to use in production.
+
 [![Join the chat at https://gitter.im/copy/v86](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/copy/v86)
 
 
